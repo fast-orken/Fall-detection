@@ -37,4 +37,3 @@ Class QLearning:
 ~~~
 **Every Methods, classes must provide annotation**:
 
-test test
